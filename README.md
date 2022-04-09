@@ -4,7 +4,9 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+NestJS challenge from FullCycle immersion.
+
+The challenge is to build a Simple NestJS API that is served with docker.
 
 ## Installation
 
