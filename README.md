@@ -21,4 +21,4 @@ $ docker-compose up
 - GET: "/api/transaction"
   - returns all transactions in database
 - POST: /api/transaction" with params type and amount
-  - create an new transaction
+  - create an new transactionc
